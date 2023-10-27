@@ -1,5 +1,14 @@
-/* Do not add any css, this is a bootstrap only assignment  */
-.first-slide{
-	background-color:red;
-	color:white;
-}
+
+ 
+/* Your CSS Code here. */
+ 
+.carousel .item {
+    height: 400px;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
